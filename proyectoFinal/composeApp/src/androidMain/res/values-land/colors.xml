@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mi_color_txt">#000000</color> <!-- Letra Negra -->
+    <color name="mi_fondo">#4CAF50</color> <!-- Fondo Verde -->
+</resources>
